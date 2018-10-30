@@ -317,6 +317,7 @@ Instructions :
 | 284 | **Mexico** | Mexico | Full Stack Developer | [GitHub](https://github.com/ArmandoHerra/) - [LinkedIn](https://www.linkedin.com/in/armandoherra/)
 | 285 | **Anurita Srivastava** | India | iOS Developer | [GitHub](https://github.com/AnuritaS/) - [LinkedIn](https://www.linkedin.com/in/anurita-srivastava/)
 | 286 | **Jay Yabsley** | Australia | Realtime Software Developer | [GitHub](https://github.com/jayyabsley/) - [LinkedIn](https://www.linkedin.com/in/jayyabsley/)
+| 287 | **Azhar K** | INDIA | Indie game developer | [GitHub] (https://github.com/kazihar) |
 ---
 
 ###  Thanks, you did a great job. Please consider giving a :star: if you :heart::yellow_heart: our efforts.
